@@ -11,5 +11,7 @@ Para jugar, cada equipo debe ubicarse a un lado de la cancha. Se realiza un sort
 
 Saques
 Ambos se realizan desde cualquier posición, por detrás de la línea de fondo. 
+
 Saque por debajo: es un saque utilizado a nivel principiante, donde la pelota se golpea con la mano dominante, colocando el pie contrario un paso por delante. El golpe se puede realizar con la palma o puño.
+
 Saque por arriba: Es un saque a nivel profesional, la pelota se eleva por sobre la cabeza, se realiza un salto y se golpea en el punto más alto con la palma abierta. 
