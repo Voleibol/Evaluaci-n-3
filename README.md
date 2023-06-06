@@ -17,5 +17,14 @@ Saque por debajo: es un saque utilizado a nivel principiante, donde la pelota se
 Saque por arriba: Es un saque a nivel profesional, la pelota se eleva por sobre la cabeza, se realiza un salto y se golpea en el punto más alto con la palma abierta. 
 
 Golpes
-Golpe "dedos"
-Se genera cuando la pelota llega por sobre la cabeza, en una posición cómoda ya que es un golpe limpio para no realizar falta. Las manos se colocan paralelas, generando un triángulo con los dedos indices y pulgares, y la pelota es recibida con las yemas de los dedos, generando flexión de brazos para agregar fuerza al golpe. También se utiliza para "armar" un posterior remate.  
+1 Golpe "dedos"
+Las manos se colocan paralelas, generando un triángulo con los dedos indices y pulgares, y la pelota es recibida con las yemas de los dedos, generando flexión de brazos para agregar fuerza al golpe. 
+
+2 Golpe "antebrazo"
+Brazos estirados hacia el frente uniendo las manos. La flexión de las piernas entrega la fuerza para generar el golpe. 
+
+3 Golpe "bloqueo"
+Acción de interceptar un golpe contrincante, se genera con un salto, ubicando las manos estiradas verticalmente sobre la cabeza. 
+
+4 Golpe "remate"
+Último golpe, incluye fuerza y es rápido, se utiliza en dirección al suelo, con fuerza para impedir su respuesta. 
